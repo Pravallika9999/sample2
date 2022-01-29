@@ -1,5 +1,4 @@
 # DataScience
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -97,10 +96,7 @@ chat room. The users also have the option of sending video messages to other use
             
           </div>
         </div>
-            
-          </div>
-         
-        </div>
+           
       </div>
     </div>
   </section>
@@ -179,13 +175,7 @@ chat room. The users also have the option of sending video messages to other use
       <div class="brand">
         <h1><span>P</span>ravallika <span>A</span>nne</h1>
       </div>
-      
-      <
-        
-        
-      
-      
-    
+  
   </section>
   <!-- End Footer -->
   <script src="./app.js"></script>
